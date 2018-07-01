@@ -29,6 +29,7 @@
 		<li><a href="gallery.jsp" accesskey="4" title="">Gallery</a></li>
 		<li><a href="aboutus.jsp" accesskey="4" title="">About Us</a></li>
 		<li><a href="contactus.jsp" accesskey="5" title="">Contact Us</a></li>
+		<p class="legal"><strong><font size="4"><a href="index.html">www.municipalcorporation.com</a></font></strong></p>
 	</ul>
 </div>
 </div>
